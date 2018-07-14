@@ -20,7 +20,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="40dp"
         android:background="#3B51B5"
-        android:text="Ask"
+        android:text="@string/ask"
         android:textColor="@android:color/background_light" />
 
     <TextView
